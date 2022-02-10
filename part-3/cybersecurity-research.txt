@@ -1,0 +1,39 @@
+1. Research major cybersecurity breaches over the past 20 years and pick one to write a short essay on.
+    - 2013 Target Data Breach
+    - https://www.commerce.senate.gov/services/files/24d3c229-4f2f-405d-b8db-a3a67f183883
+
+
+2. Give an overview of what the breach was and the motivations behind it.
+    - Hackers wanted user data and payment card information for resale and were able to get this
+    by installing malware on point of sale terminals through a series of vulerabilities starting
+    with an HVAC and refrigeration company, Fazio Mechanical Services, based in Sharpsburg,
+    Pennsylvania.
+
+
+3. Explain where the “tech flaws” were, and how hackers were able to breach their system.
+    - Target gave network access to a third-party vendor, a small Pennsylvania HVAC
+    company, which did not appear to follow broadly accepted information security
+    practices. The vendor’s weak security allowed the attackers to gain a foothold in
+    Target’s network.
+    - Target appears to have failed to respond to multiple automated warnings from the
+    company’s anti-intrusion software that the attackers were installing malware on
+    Target’s system.
+    - Attackers who infiltrated Target’s network with a vendor credential appear to have
+    successfully moved from less sensitive areas of Target’s network to areas storing
+    consumer data, suggesting that Target failed to properly isolate its most sensitive
+    network assets.
+    - Target appears to have failed to respond to multiple warnings from the company’s
+    anti-intrusion software regarding the escape routes the attackers planned to use to
+    exfiltrate data from Target’s network
+
+4. What has the company done to protect against that vulnerability since?
+    - Following the data breach, Target did issue more secure chip-and-pin cards.
+    They discovered that chips alone weren’t enough to secure many of the cards that had
+    been compromised, although consumers learned a lesson, too — credit cards are much
+    more secure than debit cards. With credit cards, it’s easier to overturn a transaction,
+    and a fake transaction doesn’t leave you without money.
+    - A “Chip and pin” card is inherently more secure because it means that someone with just a
+    name, card number, and address usually can’t perform transactions. But that wasn’t an
+    all-around solution. Enough data had been stolen that consumer identities could potentially
+    be compromised, regardless if the debit and credit cards were secured. And identity theft
+    can be a much bigger problem than a single compromised card.
